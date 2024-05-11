@@ -1,0 +1,272 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/shop-recharge/recharge",
+		"style": {
+			"navigationBarTitleText": "用户充值"
+		}
+	}, {
+		"path": "pages/shop-cart/shop-cart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "pages/shop-order-confirm/shop-order-confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}, {
+		"path": "pages/shop-address/shop-address",
+		"style": {
+			"navigationBarTitleText": "我的地址"
+		}
+	}, {
+		"path": "pages/shop-address-detail/shop-address-detail",
+		"style": {
+			"navigationBarTitleText": "地址详情"
+		}
+	}, {
+		"path": "pages/shop-order/shop-order",
+		"style": {
+			"navigationBarTitleText": "我的订单"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/saishixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/saishibaoming/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishibaoming/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/saishibaoming/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/huodongshangchang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/huodongshangchang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/huodongshangchang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+													,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/messages/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/messages/liuyan",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discusshuodongshangchang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusshuodongshangchang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusshuodongshangchang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white"
+		}
+	}
+					, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FFADAD",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "马拉松报名系统微信小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#F44336",
+		"borderStyle": "black",
+		"backgroundColor": "#494949",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/saishixinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "赛事信息"
+			}
+												,{
+				"pagePath": "pages/huodongshangchang/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "活动商场"
+			}
+						
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
